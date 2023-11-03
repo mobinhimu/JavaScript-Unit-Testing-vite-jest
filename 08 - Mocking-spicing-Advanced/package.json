@@ -1,0 +1,14 @@
+{
+  "name": "08---mocking-spicing-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.34.6"
+  }
+}
