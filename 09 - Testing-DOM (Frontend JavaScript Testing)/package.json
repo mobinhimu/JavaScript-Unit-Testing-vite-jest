@@ -1,0 +1,17 @@
+{
+  "name": "frontend-javascript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest --run --environment happy-dom"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.34.6"
+  },
+  "devDependencies": {
+    "happy-dom": "^12.10.3"
+  }
+}
